@@ -16,4 +16,4 @@ but only changes which are naturally belong to the update itself.
 
 Any projects/fixes/update must never be commited to "agentic" itself – but rather fork a working branch.
 
-Whenever you preparing a fix/update for the original repo, follow all the ruls of this repo + make this PR generalle nice and elegant.
+Whenever you preparing a fix/update for the original repo, follow all the rules of this repo + make this PR generalle nice and elegant.
