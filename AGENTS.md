@@ -11,3 +11,5 @@ Specifically (please autoupdate this list when necessary):
 
 So whenever something goes to the main repo – you must never allow this tools and their artifacts "leak" into the main project,
 but only changes which are naturally belong to the update itself.
+
+Any projects/fixes/update must never go to "agentic" itself – but rather fork a working branch.
